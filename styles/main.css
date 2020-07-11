@@ -1,0 +1,14 @@
+body {
+	background-color:#36648B;
+}
+.container{
+	margin-top:2%;
+}
+
+.form-signin h3 {
+	text-align:center;
+	font-weight:bold;
+}
+#header h5{
+	font-size:1.2em;
+}
